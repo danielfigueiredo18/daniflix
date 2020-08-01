@@ -1,14 +1,76 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Música",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Melhores artistas",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
+        {
+          "titulo": "NOVAS VESTES // ESDRAS - A RECONSTRUÇÃO DOS ALTARES",
+          "url": "https://www.youtube.com/watch?v=too0Y7pNZFY"
+        },
+        {
+          "titulo": "Vinheteiro: O Tema de Simpsons no Piano",
+          "url": "https://www.youtube.com/watch?v=8dzs8MEgFVY"
+        },
+        {
+          "titulo": "7 Músicas Espanholas Que Você Já Ouviu E Não Sabe o Nome",
+          "url": "https://www.youtube.com/watch?v=Z45DGmC3gFI"
+        },
+        {
+          "titulo": "Michael Jackson - Thriller (Official Video - Shortened Version)",
+          "url": "https://www.youtube.com/watch?v=4V90AmXnguw"
+        },
+        {
+          "titulo": "10 Músicas que Marcaram a Infância por Fabio Lima",
+          "url": "https://www.youtube.com/watch?v=-Y7aJtyZ36c"
+        },
+        {
+          "titulo": "Iron Maiden - Fear Of The Dark (En Vivo!) [HD]",
+          "url": "https://www.youtube.com/watch?v=EoKlrdtd0xY&feature=youtu.be"
+        },
+        {
+          "titulo": "Linkin Park & Friends Celebrate Life in Honor of Chester Bennington ",
+          "url": "https://www.youtube.com/watch?v=9VoLHdADma8"
+        },
+        {
+          "titulo": "ÁGUAS PROFUNDAS - SANTIDADE LADO B",
+          "url": "https://www.youtube.com/watch?v=4eaTFKappO4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Programação",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Programação",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
         {
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
@@ -44,40 +106,10 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Tecnologia da Informação",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Cursos diversos de TI",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -96,6 +128,26 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     },
@@ -118,6 +170,10 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "The Avengers",
+          "url":"https://www.youtube.com/watch?v=pPqUuXEzIP4"
         }
       ]
     },
@@ -125,10 +181,19 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Jogos Legais",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
+        {
+          "titulo": "Call of Duty Modern Warfare",
+          "url":"https://www.youtube.com/watch?v=Afdsjx0xK38&t=3s"
+        },
+        {
+          "titulo":"Fortnite: Capitulo 2 Season 3",
+          "url":"https://www.youtube.com/watch?v=MPDmnIKI75U"
+        A}
+        ,
         {
           "titulo": "Final Fantasy 7",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"

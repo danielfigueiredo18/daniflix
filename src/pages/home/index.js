@@ -15,7 +15,7 @@ function Home() {
     <BannerMain 
     videoTitle={dadosIniciais.categorias[0].videos[0].titulo} 
     url={dadosIniciais.categorias[0].videos[0].url}
-    videoDescription={"O que é Front-end?"}
+    videoDescription={"Fabricio André Bernard Di Paolo, mais conhecido por seu nome artístico Lord Vinheteiro (São Paulo, 22 de janeiro de 1980) é um pianista, engenheiro de áudio, youtuber e humorista brasileiro. É conhecido por possuir o maior canal especializado em piano do mundo no YouTube, com mais de 6 milhões de inscritos, além de integrar o elenco do programa Pânico, na Rádio Jovem Pan."}
     />
 
     <Carousel
@@ -43,10 +43,7 @@ function Home() {
     category={dadosIniciais.categorias[4]}
     />
 
-    <Carousel
-    ignoreFirstVideo
-    category={dadosIniciais.categorias[5]}
-    />
+   
    
    <Footer></Footer>
     </div>
